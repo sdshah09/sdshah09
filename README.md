@@ -8,4 +8,9 @@ As a coding enthusiast, I take great pride in my keen eye for detail and my unwa
     
 📬 How to reach me: shaswatshah2727@gmail.com
 
-Resume 
+📝 Resume:- https://drive.google.com/file/d/1P7nQCcBPNMG2IDxMJnjfeBrLy9SGPpfH/view?usp=sharing
+
+🛠️ My favorite tools
+👨‍💻 Programming languages
+Bash C C++ CSS HTML Java JavaScript Markdown Node.js PHP Python SASS SQL TypeScript
+
