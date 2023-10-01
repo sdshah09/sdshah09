@@ -8,4 +8,4 @@ As a coding enthusiast, I take great pride in my keen eye for detail and my unwa
     
 📬 How to reach me: shaswatshah2727@gmail.com
 
-https://drive.google.com/file/d/1P7nQCcBPNMG2IDxMJnjfeBrLy9SGPpfH/view?usp=sharing
+Resume
