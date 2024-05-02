@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaswat Shah</h1>
 <h3 align="center">I am a student at Illinois Institue of Technology pursuing master's in Computer Engineering. I love coding and reading novels. As a coding enthusiast, I take great pride in my keen eye for detail and my unwavering commitment to creating innovations that shape our world for the better.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdshah09&label=Profile%20views&color=0e75b6&style=flat" alt="sdshah09" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdshah09" alt="sdshah09" /></a> </p>
-
 - 📫 How to reach me **shaswatshah2727@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Dg99FreTB_bfMav92p3fFmhlrb6ZGJQX/view?usp=sharing](https://drive.google.com/file/d/1Dg99FreTB_bfMav92p3fFmhlrb6ZGJQX/view?usp=sharing)
