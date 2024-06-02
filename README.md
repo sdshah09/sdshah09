@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **shaswatshah2727@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Dg99FreTB_bfMav92p3fFmhlrb6ZGJQX/view?usp=sharing](https://drive.google.com/file/d/1Dg99FreTB_bfMav92p3fFmhlrb6ZGJQX/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GdCquLV3BDOX2BF08x_KmwVTpnti63EI/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
