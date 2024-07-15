@@ -17,8 +17,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdshah09&" alt="sdshah09" /></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sdshah09/sdshah09/raw/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sdshah09/sdshah09/raw/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/sdshah09/sdshah09/raw/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sdshah09/snk/raw/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/sdshah09/snk/raw/output/github-snake.svg" />
 </picture>
 
