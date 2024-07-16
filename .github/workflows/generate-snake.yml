@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs the workflow every hour
+    - cron: '0 0 * * *'  # Runs the workflow daily at midnight UTC
   push:
     branches:
       - main  # Runs the workflow whenever there is a push to the main branch
@@ -30,16 +30,13 @@ jobs:
       
       - name: Update README with new snake
         run: |
-          # Replace the image link in the README.md with the new image link
           sed -i 's|<img alt="github-snake" src="https://github.com/sdshah09/raw/output/github-snake.svg" />|<img alt="github-snake" src="https://github.com/'${{ github.repository_owner }}'/'${{ github.repository }}'/raw/output/github-snake.svg" />|' README.md
-          # Add the changes to git
           git add README.md
-          git add dist/  # Add the dist/ directory to git
-          # Commit the changes
-          git commit -m "Update snake image in README"
+          git add dist/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update snake animation"
       
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main  # Pushes changes to the main branch
+          branch: main
