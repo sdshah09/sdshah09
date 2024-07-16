@@ -26,7 +26,7 @@ jobs:
       - name: Update README with new snake
         run: |
           # Replace the image link in the README.md with the new image link
-          sed -i 's|<img alt="github-snake" src="https://github.com/[^"]*raw/output/github-snake.svg" />|<img alt="github-snake" src="https://github.com/'${{ github.repository_owner }}'/'${{ github.repository }}'/raw/output/github-snake.svg" />|' README.md
+          sed -i 's|<img alt="github-snake" src="https://github.com/sdshah09/raw/output/github-snake.svg" />|<img alt="github-snake" src="https://github.com/'${{ github.repository_owner }}'/'${{ github.repository }}'/raw/output/github-snake.svg" />|' README.md
           # Add the changes to git
           git add README.md
           # Commit the changes
