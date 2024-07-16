@@ -23,6 +23,11 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       
+      - name: Set up Git user
+        run: |
+          git config --global user.email "shaswatshah51@gmail.com"
+          git config --global user.name "sdshah09"
+      
       - name: Update README with new snake
         run: |
           # Replace the image link in the README.md with the new image link
