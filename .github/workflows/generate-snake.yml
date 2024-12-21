@@ -1,8 +1,8 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs the workflow daily at midnight UTC
+  # # schedule:
+  # #   - cron: '0 0 * * *'  # Runs the workflow daily at midnight UTC
   push:
     branches:
       - main  # Runs the workflow whenever there is a push to the main branch
