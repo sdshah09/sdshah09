@@ -1,23 +1,15 @@
 # Hi there, I'm Shaswat Shah 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=ADD8E6&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
-
+<!-- 
 <div align="center">
   <a href="https://github.com/sdshah09?tab=repositories">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sdshah09&theme=react-dark&hide_border=true" alt="Contribution Graph" />
   </a>
 </div>
-
-## 🎮 Quick Game Break!
-<div align="center">
-  <a href="https://github.com/sdshah09/sdshah09/blob/main/README.md">
-    <img src="https://github.com/sdshah09/sdshah09/blob/main/snake.gif" alt="Snake Game" width="400" height="300" />
-  </a>
-  <br>
-  <sub><i>Click the snake to play! Use arrow keys to control. Refresh page to restart.</i></sub>
-</div>
+ -->
 
 ## 🚀 About Me
 
