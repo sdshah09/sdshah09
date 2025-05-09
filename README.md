@@ -21,6 +21,12 @@ I am a Computer Engineering graduate student at Illinois Institute of Technology
 - 📫 Reach me at: **shaswatshah2727@gmail.com**
 - 📄 [View my Resume](https://drive.google.com/file/d/1GdCquLV3BDOX2BF08x_KmwVTpnti63EI/view?usp=sharing)
 
+## 🔐 PGP Key
+
+```
+0B9E F523 BDC6 F12E 3DC1 49F7 8D41 1137 2E48 E8E8
+```
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
