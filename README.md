@@ -174,79 +174,14 @@ $ shaswat --impact
 
 ## `$ cat tech_arsenal.md`
 
-<div align="center">
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### `languages`
-<img src="https://img.shields.io/badge/Go-16213E?style=flat-square&logo=go&logoColor=E84A5F" alt="Go"/>
-<img src="https://img.shields.io/badge/Python-16213E?style=flat-square&logo=python&logoColor=F8B500" alt="Python"/>
-<img src="https://img.shields.io/badge/TypeScript-16213E?style=flat-square&logo=typescript&logoColor=4A90D9" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-16213E?style=flat-square&logo=javascript&logoColor=F8B500" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Java-16213E?style=flat-square&logo=openjdk&logoColor=E84A5F" alt="Java"/>
-<img src="https://img.shields.io/badge/C++-16213E?style=flat-square&logo=cplusplus&logoColor=4A90D9" alt="C++"/>
-
-</td>
-<td valign="top" width="33%">
-
-### `frameworks`
-<img src="https://img.shields.io/badge/React-16213E?style=flat-square&logo=react&logoColor=4A90D9" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-16213E?style=flat-square&logo=nextdotjs&logoColor=EAEAEA" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Node.js-16213E?style=flat-square&logo=nodedotjs&logoColor=F8B500" alt="Node.js"/>
-<img src="https://img.shields.io/badge/FastAPI-16213E?style=flat-square&logo=fastapi&logoColor=E84A5F" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Django-16213E?style=flat-square&logo=django&logoColor=F8B500" alt="Django"/>
-<img src="https://img.shields.io/badge/gRPC-16213E?style=flat-square&logo=google&logoColor=4A90D9" alt="gRPC"/>
-
-</td>
-<td valign="top" width="33%">
-
-### `infrastructure`
-<img src="https://img.shields.io/badge/AWS-16213E?style=flat-square&logo=amazonwebservices&logoColor=F8B500" alt="AWS"/>
-<img src="https://img.shields.io/badge/GCP-16213E?style=flat-square&logo=googlecloud&logoColor=E84A5F" alt="GCP"/>
-<img src="https://img.shields.io/badge/Azure-16213E?style=flat-square&logo=microsoftazure&logoColor=4A90D9" alt="Azure"/>
-<img src="https://img.shields.io/badge/Kubernetes-16213E?style=flat-square&logo=kubernetes&logoColor=4A90D9" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/Docker-16213E?style=flat-square&logo=docker&logoColor=4A90D9" alt="Docker"/>
-<img src="https://img.shields.io/badge/Terraform-16213E?style=flat-square&logo=terraform&logoColor=E84A5F" alt="Terraform"/>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-### `data / streaming`
-<img src="https://img.shields.io/badge/PostgreSQL-16213E?style=flat-square&logo=postgresql&logoColor=4A90D9" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Kafka-16213E?style=flat-square&logo=apachekafka&logoColor=EAEAEA" alt="Kafka"/>
-<img src="https://img.shields.io/badge/Debezium-16213E?style=flat-square&logo=debezium&logoColor=E84A5F" alt="Debezium"/>
-<img src="https://img.shields.io/badge/MongoDB-16213E?style=flat-square&logo=mongodb&logoColor=F8B500" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Redis-16213E?style=flat-square&logo=redis&logoColor=E84A5F" alt="Redis"/>
-<img src="https://img.shields.io/badge/Elasticsearch-16213E?style=flat-square&logo=elasticsearch&logoColor=F8B500" alt="Elasticsearch"/>
-<img src="https://img.shields.io/badge/GraphQL-16213E?style=flat-square&logo=graphql&logoColor=E84A5F" alt="GraphQL"/>
-
-</td>
-<td valign="top" width="33%">
-
-### `ml / inference`
-<img src="https://img.shields.io/badge/PyTorch-16213E?style=flat-square&logo=pytorch&logoColor=E84A5F" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/vLLM-16213E?style=flat-square&logo=v&logoColor=4A90D9" alt="vLLM"/>
-<img src="https://img.shields.io/badge/Whisper-16213E?style=flat-square&logo=openai&logoColor=EAEAEA" alt="Whisper"/>
-<img src="https://img.shields.io/badge/HuggingFace-16213E?style=flat-square&logo=huggingface&logoColor=F8B500" alt="HuggingFace"/>
-<img src="https://img.shields.io/badge/TensorFlow-16213E?style=flat-square&logo=tensorflow&logoColor=F8B500" alt="TensorFlow"/>
-
-</td>
-<td valign="top" width="33%">
-
-### `devops / observability`
-<img src="https://img.shields.io/badge/GitHub_Actions-16213E?style=flat-square&logo=githubactions&logoColor=EAEAEA" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Jenkins-16213E?style=flat-square&logo=jenkins&logoColor=E84A5F" alt="Jenkins"/>
-<img src="https://img.shields.io/badge/CircleCI-16213E?style=flat-square&logo=circleci&logoColor=F8B500" alt="CircleCI"/>
-<img src="https://img.shields.io/badge/Fluent_Bit-16213E?style=flat-square&logo=fluentbit&logoColor=4A90D9" alt="Fluent Bit"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-16213E?style=flat-square&logo=opentelemetry&logoColor=F8B500" alt="OpenTelemetry"/>
-
-</td>
-</tr>
-</table>
-</div>
+| | |
+|---|---|
+| **languages** | <img src="https://img.shields.io/badge/Go-16213E?style=flat-square&logo=go&logoColor=E84A5F"/> <img src="https://img.shields.io/badge/Python-16213E?style=flat-square&logo=python&logoColor=F8B500"/> <img src="https://img.shields.io/badge/TypeScript-16213E?style=flat-square&logo=typescript&logoColor=4A90D9"/> <img src="https://img.shields.io/badge/JavaScript-16213E?style=flat-square&logo=javascript&logoColor=F8B500"/> <img src="https://img.shields.io/badge/Java-16213E?style=flat-square&logo=openjdk&logoColor=E84A5F"/> <img src="https://img.shields.io/badge/C++-16213E?style=flat-square&logo=cplusplus&logoColor=4A90D9"/> |
+| **frameworks** | <img src="https://img.shields.io/badge/React-16213E?style=flat-square&logo=react&logoColor=4A90D9"/> <img src="https://img.shields.io/badge/Next.js-16213E?style=flat-square&logo=nextdotjs&logoColor=EAEAEA"/> <img src="https://img.shields.io/badge/Node.js-16213E?style=flat-square&logo=nodedotjs&logoColor=F8B500"/> <img src="https://img.shields.io/badge/FastAPI-16213E?style=flat-square&logo=fastapi&logoColor=E84A5F"/> <img src="https://img.shields.io/badge/Django-16213E?style=flat-square&logo=django&logoColor=F8B500"/> <img src="https://img.shields.io/badge/gRPC-16213E?style=flat-square&logo=google&logoColor=4A90D9"/> |
+| **infrastructure** | <img src="https://img.shields.io/badge/AWS-16213E?style=flat-square&logo=amazonwebservices&logoColor=F8B500"/> <img src="https://img.shields.io/badge/GCP-16213E?style=flat-square&logo=googlecloud&logoColor=E84A5F"/> <img src="https://img.shields.io/badge/Azure-16213E?style=flat-square&logo=microsoftazure&logoColor=4A90D9"/> <img src="https://img.shields.io/badge/Kubernetes-16213E?style=flat-square&logo=kubernetes&logoColor=4A90D9"/> <img src="https://img.shields.io/badge/Docker-16213E?style=flat-square&logo=docker&logoColor=4A90D9"/> <img src="https://img.shields.io/badge/Terraform-16213E?style=flat-square&logo=terraform&logoColor=E84A5F"/> |
+| **data / streaming** | <img src="https://img.shields.io/badge/PostgreSQL-16213E?style=flat-square&logo=postgresql&logoColor=4A90D9"/> <img src="https://img.shields.io/badge/Kafka-16213E?style=flat-square&logo=apachekafka&logoColor=EAEAEA"/> <img src="https://img.shields.io/badge/Debezium-16213E?style=flat-square&logo=debezium&logoColor=E84A5F"/> <img src="https://img.shields.io/badge/Elasticsearch-16213E?style=flat-square&logo=elasticsearch&logoColor=F8B500"/> <img src="https://img.shields.io/badge/Redis-16213E?style=flat-square&logo=redis&logoColor=E84A5F"/> <img src="https://img.shields.io/badge/MongoDB-16213E?style=flat-square&logo=mongodb&logoColor=F8B500"/> <img src="https://img.shields.io/badge/GraphQL-16213E?style=flat-square&logo=graphql&logoColor=E84A5F"/> |
+| **ml / inference** | <img src="https://img.shields.io/badge/PyTorch-16213E?style=flat-square&logo=pytorch&logoColor=E84A5F"/> <img src="https://img.shields.io/badge/vLLM-16213E?style=flat-square&logoColor=4A90D9"/> <img src="https://img.shields.io/badge/Whisper-16213E?style=flat-square&logo=openai&logoColor=EAEAEA"/> <img src="https://img.shields.io/badge/HuggingFace-16213E?style=flat-square&logo=huggingface&logoColor=F8B500"/> <img src="https://img.shields.io/badge/TensorFlow-16213E?style=flat-square&logo=tensorflow&logoColor=F8B500"/> |
+| **devops / o11y** | <img src="https://img.shields.io/badge/GitHub_Actions-16213E?style=flat-square&logo=githubactions&logoColor=EAEAEA"/> <img src="https://img.shields.io/badge/Jenkins-16213E?style=flat-square&logo=jenkins&logoColor=E84A5F"/> <img src="https://img.shields.io/badge/CircleCI-16213E?style=flat-square&logo=circleci&logoColor=F8B500"/> <img src="https://img.shields.io/badge/Fluent_Bit-16213E?style=flat-square&logo=fluentbit&logoColor=4A90D9"/> <img src="https://img.shields.io/badge/OpenTelemetry-16213E?style=flat-square&logo=opentelemetry&logoColor=F8B500"/> |
 
 ---
 
@@ -333,7 +268,7 @@ func main() {
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdshah09&hide_border=true&background=16213E&stroke=4A90D9&ring=E84A5F&fire=F8B500&currStreakLabel=EAEAEA&sideLabels=EAEAEA&currStreakNum=E84A5F&sideNums=4A90D9&dates=EAEAEA" alt="streak"/>
 <br>
-<img alt="contribution snake" src="https://github.com/sdshah09/sdshah09/raw/output/github-snake-dark.svg"/>
+<img alt="contribution snake" src="https://raw.githubusercontent.com/sdshah09/sdshah09/main/dist/github-snake-dark.svg"/>
 </div>
 
 ---
