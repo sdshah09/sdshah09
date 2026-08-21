@@ -210,8 +210,8 @@ Full key and verification steps in [PGP.md](PGP.md).
 ```
 CHAKRA DISTRIBUTION   42 repositories, by primary language
 
-  Python            ██████████████████████████████████ 16
-  JavaScript        ███████████████                     7
+  Python            ██████████████████████████████████ 17
+  JavaScript        ██████████████                      7
   Go                ████████                            4
   Java              ████████                            4
   Jupyter Notebook  ████████                            4
@@ -243,7 +243,9 @@ CHAKRA DISTRIBUTION   42 repositories, by primary language
 
 <br><br>
 
-<sub><i>"Those who break the rules are scum. But those who abandon their comrades<br>are worse than scum."</i> &nbsp;— Kakashi Hatake</sub>
+<!-- quote:start -->
+<sub><i>&ldquo;Failing doesn't give you a reason to give up, as long as you believe.&rdquo;</i><br><br>&mdash; Naruto Uzumaki</sub>
+<!-- quote:end -->
 
 <br>
 
