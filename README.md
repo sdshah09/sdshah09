@@ -206,10 +206,23 @@ Full key and verification steps in [PGP.md](PGP.md).
 
 ## ⌁&nbsp; Chakra output
 
-<div align="center">
+<!-- chakra:start -->
+```
+CHAKRA DISTRIBUTION   42 repositories, by primary language
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=sdshah09&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=C1121F&text_color=94A3B8&icon_color=C1121F"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdshah09&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=C1121F&text_color=94A3B8&icon_color=C1121F"/>
+  Python            ██████████████████████████████████ 16
+  JavaScript        ███████████████                     7
+  Go                ████████                            4
+  Java              ████████                            4
+  Jupyter Notebook  ████████                            4
+  C++               ██                                  1
+  TypeScript        ██                                  1
+```
+<!-- chakra:end -->
+
+<sub>Counted by repository, not by bytes — notebook outputs and vendored build files are stored base64 and would otherwise drown out everything actually written. Regenerated daily by <a href="scripts/chakra.py">scripts/chakra.py</a>.</sub>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdshah09/sdshah09/main/dist/github-snake-dark.svg"/>
