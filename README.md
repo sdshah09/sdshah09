@@ -1,149 +1,137 @@
 <div align="center">
 
-```
-  ╭────────────────────────────────────────╮  
-╭─╯                                        ╰─╮
-│                                            │
-│    ●──────────────────────────────────●    │
-│                                            │
-╰─╮                                        ╭─╯
-  ╰────────────────────────────────────────╯  
-```
+<img src="https://raw.githubusercontent.com/sdshah09/sdshah09/main/assets/sharingan.svg" width="600" alt="Hidden Leaf headband over a blinking Sharingan"/>
 
-### Hello. I am **Shaswat**, your personal systems companion.
+# 木ノ葉 &nbsp;·&nbsp; Shaswat Shah
 
-<sub>I was alerted to the need for medical attention when your p99 said <i>ow</i>.</sub>
+**Jōnin, Distributed Systems Division** &nbsp;·&nbsp; Hidden Leaf Village of Chicago
 
-<br>
-
-<img src="https://img.shields.io/badge/%E2%9C%9A%20Software%20Engineer-D7263D?style=for-the-badge&labelColor=D7263D" alt="Software Engineer"/>
-<img src="https://img.shields.io/badge/Chicago%2C%20IL-2B2D42?style=for-the-badge&labelColor=2B2D42" alt="Chicago, IL"/>
-<img src="https://img.shields.io/badge/Status-Active%20care-D7263D?style=for-the-badge&labelColor=2B2D42&color=D7263D" alt="Status: active care"/>
+<a href="https://linkedin.com/in/sdshah05"><img src="https://img.shields.io/badge/%E2%9C%A6%20Jonin-C1121F?style=for-the-badge&labelColor=C1121F" alt="✦ Jonin"/></a>
+<img src="https://img.shields.io/badge/Village-Chicago%2C%20IL-1B2A41?style=flat-square&labelColor=1B2A41" alt="Village: Chicago, IL"/>
+<img src="https://img.shields.io/badge/Status-Active%20duty-1B2A41?style=flat-square&labelColor=1B2A41" alt="Status: active duty"/>
+<img src="https://img.shields.io/badge/Registration-009720-1B2A41?style=flat-square&labelColor=1B2A41" alt="Registration 009720"/>
 
 </div>
 
 ---
 
-## ✚&nbsp; Scan complete
+## ⌁&nbsp; Mission log
 
-```
-SCANNING . . . . . . . . . . . . . . . . . . . . . . . . . .  100%
+<sub>Ranked by blast radius. Every result below was measured in production, not on a training ground.</sub>
 
-  PATIENT     distributed systems, cloud infra, LLM inference
-  CLINICIAN   Shaswat Shah — Software Engineer @ Curie
-  SPECIALTY   healthcare platforms, observability, cost surgery
-  LICENSE     M.S. Computer Engineering, Illinois Tech
-```
-
-**Diagnosis: your systems are in pain. Here is what I treated.**
-
-| symptom | treatment administered | outcome |
-|:---|:---|---:|
-| Cloud spend rising, nobody could say why | Custom Nginx-Go API gateway | **−40%** cost |
-| GraphQL fanout inflating tail latency | Migrated the hot path to gRPC | **−70%** latency |
-| Clinicians hand-building the same workflow | No-code React Flow engine | **−85%** time |
-| Errors buried, triage by grep | Fluent Bit observability pipeline | **−93%** triage |
-| Outages discovered by customers | Terraform SQS DLQ monitoring | **3h → 5min** |
-| Claim prep taking analysts days | Azure Document Intelligence | **−85%** prep |
-| Extraction dropping fields silently | RAG + hybrid search | **95%+** accuracy |
-
-<sub><i>I am programmed to report measured outcomes only. Every number came from production, not from a benchmark designed to win.</i></sub>
+| rank | mission | jutsu | result |
+|:---:|:---|:---|---:|
+| `S` | Cloud spend climbing, no owner | Custom Nginx-Go API gateway | **−40%** cost |
+| `S` | Outages found by customers first | Terraform SQS DLQ monitoring | **3h → 5min** |
+| `A` | GraphQL fanout inflating tail latency | Migrated hot path to gRPC | **−70%** latency |
+| `A` | Triage by grep, errors buried | Fluent Bit observability pipeline | **−93%** triage |
+| `A` | Clinicians rebuilding the same flow | No-code React Flow engine | **−85%** time |
+| `A` | Claim prep costing analysts days | Azure Document Intelligence | **−85%** prep |
+| `B` | Extraction dropping fields silently | RAG + hybrid search | **95%+** accuracy |
+| `B` | Deploys slow enough to batch | Cloud-native Jenkins CI/CD | **−95%** deploy |
+| `B` | Device sync lagging the floor | AWS IoT Core over MQTT | **−80%** latency |
 
 ---
 
-## ✚&nbsp; Prescriptions
+## ⌁&nbsp; Sharingan — jutsu copied from other shinobi
+
+<sub>Open source contributions. Status shown exactly as it stands; not every attempt lands.</sub>
+
+| repository | reach | contribution | status |
+|:---|---:|:---|:---|
+| [entireio/cli](https://github.com/entireio/cli) | ★ 5.0k | [#2018](https://github.com/entireio/cli/pull/2018) spawn hooks via `node:child_process` for Desktop | **merged** |
+| [entireio/cli](https://github.com/entireio/cli) | ★ 5.0k | [#1929](https://github.com/entireio/cli/pull/1929) sync imported checkpoints once logged in | in review |
+| [entireio/cli](https://github.com/entireio/cli) | ★ 5.0k | [#1914](https://github.com/entireio/cli/pull/1914) qualify phone PII redaction as NANP-only | in review |
+| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | ★ 30.7k | [#936](https://github.com/VoltAgent/awesome-agent-skills/pull/936) · [#935](https://github.com/VoltAgent/awesome-agent-skills/pull/935) list both published skills | in review |
+| [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | ★ 22.2k | [#1257](https://github.com/NVIDIA/NemoClaw/pull/1257) retry invalid custom policy preset selection | closed |
+| [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | ★ 22.2k | [#499](https://github.com/NVIDIA/NemoClaw/pull/499) document config, env overrides, my-stack | closed |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | ★ 17.6k | [#1084](https://github.com/PrimeIntellect-ai/prime-agent/pull/1084) preserve MCP tool `inputSchema` from SDK snake_case | closed |
+
+---
+
+## ⌁&nbsp; Forbidden scrolls — published
+
+<sub>Sealed, catalogued, and installable by anyone.</sub>
 
 <table>
 <tr><td width="50%" valign="top">
 
-**[amazon-design-doc](https://github.com/sdshah09/design-doc-agent-skill)**
+`S-rank` &nbsp; **[amazon-design-doc](https://github.com/sdshah09/design-doc-agent-skill)**
 
-<a href="https://www.npmjs.com/package/amazon-design-doc"><img src="https://img.shields.io/npm/v/amazon-design-doc?style=flat-square&label=dose&labelColor=2B2D42&color=D7263D"/></a> <a href="https://www.npmjs.com/package/amazon-design-doc"><img src="https://img.shields.io/npm/dm/amazon-design-doc?style=flat-square&label=dispensed%2Fmo&labelColor=2B2D42&color=8D99AE"/></a>
+<a href="https://www.npmjs.com/package/amazon-design-doc"><img src="https://img.shields.io/npm/v/amazon-design-doc?style=flat-square&label=scroll&labelColor=1B2A41&color=C1121F"/></a> <a href="https://www.npmjs.com/package/amazon-design-doc"><img src="https://img.shields.io/npm/dm/amazon-design-doc?style=flat-square&label=copies%2Fmo&labelColor=1B2A41&color=94A3B8"/></a>
 
 ```sh
 npx amazon-design-doc install
 ```
 
-For teams whose design docs say *"significantly faster"* and never say why. Enforces the Amazon format across 7 agent runtimes.
+For teams whose design docs say *"significantly faster"* and never say why. Enforces the Amazon format across seven agent runtimes.
 
 </td><td width="50%" valign="top">
 
-**[brag-document-skill](https://github.com/sdshah09/brag-document-skill)**
+`S-rank` &nbsp; **[brag-document-skill](https://github.com/sdshah09/brag-document-skill)**
 
-<a href="https://www.npmjs.com/package/brag-document-skill"><img src="https://img.shields.io/npm/v/brag-document-skill?style=flat-square&label=dose&labelColor=2B2D42&color=D7263D"/></a> <a href="https://www.npmjs.com/package/brag-document-skill"><img src="https://img.shields.io/npm/dm/brag-document-skill?style=flat-square&label=dispensed%2Fmo&labelColor=2B2D42&color=8D99AE"/></a>
+<a href="https://www.npmjs.com/package/brag-document-skill"><img src="https://img.shields.io/npm/v/brag-document-skill?style=flat-square&label=scroll&labelColor=1B2A41&color=C1121F"/></a> <a href="https://www.npmjs.com/package/brag-document-skill"><img src="https://img.shields.io/npm/dm/brag-document-skill?style=flat-square&label=copies%2Fmo&labelColor=1B2A41&color=94A3B8"/></a>
 
 ```sh
 npx brag-document-skill
 ```
 
-For engineers who cannot recall what they shipped six months ago. Neither can their manager. This is treatable.
+For shinobi who cannot recall what they shipped six months ago. Neither can their captain. This is fixable.
 
 </td></tr>
 </table>
 
 ---
 
-## ✚&nbsp; Case files
+## ⌁&nbsp; Jutsu scrolls — built
 
 <table>
 <tr><td width="50%" valign="top">
 
-**[SLOServe](https://github.com/sdshah09/sloserve)** &nbsp;·&nbsp; `Python`
+`S-rank` &nbsp; **[SLOServe](https://github.com/sdshah09/sloserve)** · `Python`
 
-*Presenting complaint:* background batch jobs starve interactive requests on a shared GPU.
-
-*Approach:* deadline-aware vLLM scheduler, scored on deadline goodput at TTFT ≤ 500ms. Qwen3-8B on an L4, 80/20 mixed traffic, measured against what vLLM already ships — FCFS, priority, chunked prefill.
+Deadline-aware vLLM scheduling. Background batch work starves interactive requests on a shared GPU; this scores deadline goodput at TTFT ≤ 500ms, Qwen3-8B on an L4 under 80/20 mixed traffic — measured against what vLLM already ships, not a strawman.
 
 </td><td width="50%" valign="top">
 
-**[wispr](https://github.com/sdshah09/asr)** &nbsp;·&nbsp; `Python`
+`A-rank` &nbsp; **[wispr](https://github.com/sdshah09/asr)** · `Python`
 
-*Presenting complaint:* everyone uses ASR, nobody can say what it does.
-
-*Approach:* traced the whole Whisper pipeline with real numbers. 11 scripts — mel spectrogram walkthrough, RTF benchmarks, quantization error on real weights, and a 10-case set built to make the model hallucinate.
+Whisper traced from zero with real numbers. Eleven scripts — mel spectrogram walkthrough, RTF benchmarks, quantization error on live weights, and a ten-case set built specifically to make the model hallucinate.
 
 </td></tr>
 <tr><td width="50%" valign="top">
 
-**[Distributed Message Broker](https://github.com/sdshah09/Distributed-Message-Broker-System)** &nbsp;·&nbsp; `Python`
+`A-rank` &nbsp; **[Distributed Message Broker](https://github.com/sdshah09/Distributed-Message-Broker-System)** · `Python`
 
-*Vitals:* 1,861 RPS at 0.5ms. Failover in 8ms.
-
-Hypercube topology, so losing one node never partitions the mesh. Also [ported to C++](https://github.com/sdshah09/Distributed-Message-Broker-CPP).
+1,861 RPS at 0.5ms, failover in 8ms. Hypercube topology, so losing one node never partitions the mesh. Also [ported to C++](https://github.com/sdshah09/Distributed-Message-Broker-CPP).
 
 </td><td width="50%" valign="top">
 
-**[GoCore](https://github.com/sdshah09/GoCore)** &nbsp;·&nbsp; `Go`
+`B-rank` &nbsp; **[GoCore](https://github.com/sdshah09/GoCore)** · `Go`
 
-*Vitals:* account, product, and order services over gRPC with Elasticsearch.
-
-Fully composed — a new developer has the stack running in 5 minutes.
+Account, product, and order services over gRPC with Elasticsearch, fully composed. A new developer has the whole stack running in five minutes.
 
 </td></tr>
 <tr><td width="50%" valign="top">
 
-**[Real-time CDC Monitoring](https://github.com/sdshah09/Real-time-Database-Change-Monitoring-System)** &nbsp;·&nbsp; `Python`
+`B-rank` &nbsp; **[Real-time CDC](https://github.com/sdshah09/Real-time-Database-Change-Monitoring-System)** · `Python`
 
-*Vitals:* Postgres row changes streamed the moment they commit.
-
-Debezium into Kafka; Zookeeper, broker, and connect in one `docker-compose up`.
+Postgres row changes streamed the moment they commit — Debezium into Kafka, with Zookeeper, broker, and connect in one `docker-compose up`.
 
 </td><td width="50%" valign="top">
 
-**[Stock Prediction System](https://github.com/sdshah09/Stock-Prediction-and-Reporting-System)** &nbsp;·&nbsp; `Python`
+`B-rank` &nbsp; **[Stock Prediction](https://github.com/sdshah09/Stock-Prediction-and-Reporting-System)** · `Python`
 
-*Vitals:* Django price forecasting with a custom reporting engine.
-
-Deployed to EC2 and RDS, shipped by GitHub Actions.
+Django price forecasting with a custom reporting engine, deployed to EC2 and RDS, shipped by GitHub Actions.
 
 </td></tr>
 </table>
 
 <details>
-<summary><b>✚&nbsp; Remaining charts</b> — <sub>42 repositories on file</sub></summary>
+<summary><b>⌁&nbsp; Remaining scrolls</b> — <sub>42 repositories in the archive</sub></summary>
 <br>
 
-| repository | condition treated | stack |
+| scroll | technique | chakra |
 |:---|:---|:---|
 | [High-Throughput-Kafka-Messaging-Platform](https://github.com/sdshah09/High-Throughput-Kafka-Messaging-Platform) | Kafka tuned for throughput | `Go` |
 | [Resilient-Hypercube-Framework](https://github.com/sdshah09/Resilient-Hypercube-Framework) | Fault-tolerant hypercube routing | `Python` |
@@ -158,84 +146,39 @@ Deployed to EC2 and RDS, shipped by GitHub Actions.
 
 ---
 
-## ✚&nbsp; Treatment history
+## ⌁&nbsp; Rank progression
 
-<details open>
-<summary><b>Curie</b> · Software Engineer · <code>Feb 2025 — present</code> &nbsp;<sub>ongoing care</sub></summary>
+```
+   ACADEMY    ├─ B.E. Engineering, Gujarat Technological University
+   2018–2022  │  GPA 3.6 / 4.0
+
+   GENIN      ├─ Dosepack LLP — Software Engineer
+   2022–2023  │  CI/CD, AWS IoT Core, Python FSM middleware
+
+   CHUNIN     ├─ M.S. Computer Engineering, Illinois Institute of Technology
+   2023–2025  │  GPA 3.8 / 4.0
+              ├─ Briefed.IO — Software Engineer
+              │  Document intelligence, RAG, HIPAA-compliant MVP
+
+   JONIN      ├─ Curie — Software Engineer
+   2025–now   │  API gateway, gRPC migration, observability  ◀ current post
+```
+
+<details>
+<summary><b>⌁&nbsp; Field certifications</b></summary>
 <br>
 
-```diff
-+ Nginx-Go API gateway .............. cloud cost         -40%
-+ GraphQL to gRPC migration ......... latency            -70%
-+ No-code React Flow engine ......... clinical workflow  -85%
-+ Fluent Bit observability .......... error triage       -93%
-+ Terraform SQS DLQ monitoring ...... detection     3h to 5min
+```
+  ✦  AWS Cloud Practitioner (CLF-C02)
+  ✦  Supervised ML: Regression & Classification — DeepLearning.AI
+  ✦  Fundamentals of Deep Learning — NVIDIA
+  ✦  Microsoft TEALS Volunteer
 ```
 
 </details>
 
 <details>
-<summary><b>Briefed.IO</b> · Software Engineer · <code>Sep 2024 — Dec 2024</code> &nbsp;<sub>discharged</sub></summary>
-<br>
-
-```diff
-+ Azure Document Intelligence ....... claim prep         -85%
-+ Async ingestion pipeline .......... infra cost         -70%
-+ RAG + hybrid search ............... accuracy          95%+
-+ HIPAA-compliant MVP ............... React / Postgres
-```
-
-</details>
-
-<details>
-<summary><b>Dosepack LLP</b> · Software Engineer · <code>May 2022 — Jun 2023</code> &nbsp;<sub>discharged</sub></summary>
-<br>
-
-```diff
-+ Cloud-native Jenkins CI/CD ........ deploy time        -95%
-+ AWS IoT Core over MQTT ............ sync latency       -80%
-+ Python FSM middleware ............. throughput         +20%
-+ Git/Docker training program ....... onboarding         -66%
-```
-
-</details>
-
----
-
-## ✚&nbsp; Instruments
-
-| | |
-|:---|:---|
-| **languages** | <img src="https://img.shields.io/badge/Go-2B2D42?style=flat-square&labelColor=2B2D42&logo=go&logoColor=EDF2F4" alt="Go"/> <img src="https://img.shields.io/badge/Python-2B2D42?style=flat-square&labelColor=2B2D42&logo=python&logoColor=EDF2F4" alt="Python"/> <img src="https://img.shields.io/badge/TypeScript-2B2D42?style=flat-square&labelColor=2B2D42&logo=typescript&logoColor=EDF2F4" alt="TypeScript"/> <img src="https://img.shields.io/badge/JavaScript-2B2D42?style=flat-square&labelColor=2B2D42&logo=javascript&logoColor=EDF2F4" alt="JavaScript"/> <img src="https://img.shields.io/badge/Java-2B2D42?style=flat-square&labelColor=2B2D42&logo=openjdk&logoColor=EDF2F4" alt="Java"/> <img src="https://img.shields.io/badge/C%2B%2B-2B2D42?style=flat-square&labelColor=2B2D42&logo=cplusplus&logoColor=EDF2F4" alt="C++"/> |
-| **frameworks** | <img src="https://img.shields.io/badge/React-2B2D42?style=flat-square&labelColor=2B2D42&logo=react&logoColor=EDF2F4" alt="React"/> <img src="https://img.shields.io/badge/Next.js-2B2D42?style=flat-square&labelColor=2B2D42&logo=nextdotjs&logoColor=EDF2F4" alt="Next.js"/> <img src="https://img.shields.io/badge/Node.js-2B2D42?style=flat-square&labelColor=2B2D42&logo=nodedotjs&logoColor=EDF2F4" alt="Node.js"/> <img src="https://img.shields.io/badge/FastAPI-2B2D42?style=flat-square&labelColor=2B2D42&logo=fastapi&logoColor=EDF2F4" alt="FastAPI"/> <img src="https://img.shields.io/badge/Django-2B2D42?style=flat-square&labelColor=2B2D42&logo=django&logoColor=EDF2F4" alt="Django"/> <img src="https://img.shields.io/badge/gRPC-2B2D42?style=flat-square&labelColor=2B2D42" alt="gRPC"/> |
-| **infrastructure** | <img src="https://img.shields.io/badge/AWS-2B2D42?style=flat-square&labelColor=2B2D42" alt="AWS"/> <img src="https://img.shields.io/badge/GCP-2B2D42?style=flat-square&labelColor=2B2D42&logo=googlecloud&logoColor=EDF2F4" alt="GCP"/> <img src="https://img.shields.io/badge/Azure-2B2D42?style=flat-square&labelColor=2B2D42" alt="Azure"/> <img src="https://img.shields.io/badge/Kubernetes-2B2D42?style=flat-square&labelColor=2B2D42&logo=kubernetes&logoColor=EDF2F4" alt="Kubernetes"/> <img src="https://img.shields.io/badge/Docker-2B2D42?style=flat-square&labelColor=2B2D42&logo=docker&logoColor=EDF2F4" alt="Docker"/> <img src="https://img.shields.io/badge/Terraform-2B2D42?style=flat-square&labelColor=2B2D42&logo=terraform&logoColor=EDF2F4" alt="Terraform"/> |
-| **data / streaming** | <img src="https://img.shields.io/badge/PostgreSQL-2B2D42?style=flat-square&labelColor=2B2D42&logo=postgresql&logoColor=EDF2F4" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Kafka-2B2D42?style=flat-square&labelColor=2B2D42&logo=apachekafka&logoColor=EDF2F4" alt="Kafka"/> <img src="https://img.shields.io/badge/Debezium-2B2D42?style=flat-square&labelColor=2B2D42" alt="Debezium"/> <img src="https://img.shields.io/badge/Elasticsearch-2B2D42?style=flat-square&labelColor=2B2D42&logo=elasticsearch&logoColor=EDF2F4" alt="Elasticsearch"/> <img src="https://img.shields.io/badge/Redis-2B2D42?style=flat-square&labelColor=2B2D42&logo=redis&logoColor=EDF2F4" alt="Redis"/> <img src="https://img.shields.io/badge/MongoDB-2B2D42?style=flat-square&labelColor=2B2D42&logo=mongodb&logoColor=EDF2F4" alt="MongoDB"/> <img src="https://img.shields.io/badge/GraphQL-2B2D42?style=flat-square&labelColor=2B2D42&logo=graphql&logoColor=EDF2F4" alt="GraphQL"/> |
-| **ml / inference** | <img src="https://img.shields.io/badge/PyTorch-2B2D42?style=flat-square&labelColor=2B2D42&logo=pytorch&logoColor=EDF2F4" alt="PyTorch"/> <img src="https://img.shields.io/badge/vLLM-2B2D42?style=flat-square&labelColor=2B2D42" alt="vLLM"/> <img src="https://img.shields.io/badge/Whisper-2B2D42?style=flat-square&labelColor=2B2D42" alt="Whisper"/> <img src="https://img.shields.io/badge/HuggingFace-2B2D42?style=flat-square&labelColor=2B2D42&logo=huggingface&logoColor=EDF2F4" alt="HuggingFace"/> <img src="https://img.shields.io/badge/TensorFlow-2B2D42?style=flat-square&labelColor=2B2D42&logo=tensorflow&logoColor=EDF2F4" alt="TensorFlow"/> |
-| **devops / o11y** | <img src="https://img.shields.io/badge/GitHub_Actions-2B2D42?style=flat-square&labelColor=2B2D42&logo=githubactions&logoColor=EDF2F4" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Jenkins-2B2D42?style=flat-square&labelColor=2B2D42&logo=jenkins&logoColor=EDF2F4" alt="Jenkins"/> <img src="https://img.shields.io/badge/CircleCI-2B2D42?style=flat-square&labelColor=2B2D42&logo=circleci&logoColor=EDF2F4" alt="CircleCI"/> <img src="https://img.shields.io/badge/Fluent_Bit-2B2D42?style=flat-square&labelColor=2B2D42&logo=fluentbit&logoColor=EDF2F4" alt="Fluent Bit"/> <img src="https://img.shields.io/badge/OpenTelemetry-2B2D42?style=flat-square&labelColor=2B2D42&logo=opentelemetry&logoColor=EDF2F4" alt="OpenTelemetry"/> |
-
----
-
-## ✚&nbsp; Credentials on file
-
-```
-  EDUCATION
-  ────────────────────────────────────────────────────────────────
-  M.S. Computer Engineering     Illinois Institute of Technology
-  GPA 3.8 / 4.0                 Aug 2023 — May 2025
-
-  B.E. Engineering              Gujarat Technological University
-  GPA 3.6 / 4.0                 Aug 2018 — May 2022
-
-  CERTIFICATIONS
-  ────────────────────────────────────────────────────────────────
-  +  AWS Cloud Practitioner (CLF-C02)
-  +  Supervised ML: Regression & Classification — DeepLearning.AI
-  +  Fundamentals of Deep Learning — NVIDIA
-  +  Microsoft TEALS Volunteer
-```
-
-<details>
-<summary><b>✚&nbsp; Verify this chart is authentic</b></summary>
+<summary><b>⌁&nbsp; Verify this registration is authentic</b></summary>
 <br>
 
 ```
@@ -248,12 +191,25 @@ Full key and verification steps in [PGP.md](PGP.md).
 
 ---
 
-## ✚&nbsp; Vitals
+## ⌁&nbsp; Chakra natures
+
+| | |
+|:---|:---|
+| **ninjutsu — languages** | <img src="https://img.shields.io/badge/Go-1B2A41?style=flat-square&labelColor=1B2A41&logo=go&logoColor=E5E7EB" alt="Go"/> <img src="https://img.shields.io/badge/Python-1B2A41?style=flat-square&labelColor=1B2A41&logo=python&logoColor=E5E7EB" alt="Python"/> <img src="https://img.shields.io/badge/TypeScript-1B2A41?style=flat-square&labelColor=1B2A41&logo=typescript&logoColor=E5E7EB" alt="TypeScript"/> <img src="https://img.shields.io/badge/JavaScript-1B2A41?style=flat-square&labelColor=1B2A41&logo=javascript&logoColor=E5E7EB" alt="JavaScript"/> <img src="https://img.shields.io/badge/Java-1B2A41?style=flat-square&labelColor=1B2A41&logo=openjdk&logoColor=E5E7EB" alt="Java"/> <img src="https://img.shields.io/badge/C%2B%2B-1B2A41?style=flat-square&labelColor=1B2A41&logo=cplusplus&logoColor=E5E7EB" alt="C++"/> |
+| **taijutsu — frameworks** | <img src="https://img.shields.io/badge/React-1B2A41?style=flat-square&labelColor=1B2A41&logo=react&logoColor=E5E7EB" alt="React"/> <img src="https://img.shields.io/badge/Next.js-1B2A41?style=flat-square&labelColor=1B2A41&logo=nextdotjs&logoColor=E5E7EB" alt="Next.js"/> <img src="https://img.shields.io/badge/Node.js-1B2A41?style=flat-square&labelColor=1B2A41&logo=nodedotjs&logoColor=E5E7EB" alt="Node.js"/> <img src="https://img.shields.io/badge/FastAPI-1B2A41?style=flat-square&labelColor=1B2A41&logo=fastapi&logoColor=E5E7EB" alt="FastAPI"/> <img src="https://img.shields.io/badge/Django-1B2A41?style=flat-square&labelColor=1B2A41&logo=django&logoColor=E5E7EB" alt="Django"/> <img src="https://img.shields.io/badge/gRPC-1B2A41?style=flat-square&labelColor=1B2A41" alt="gRPC"/> |
+| **summoning — infrastructure** | <img src="https://img.shields.io/badge/AWS-1B2A41?style=flat-square&labelColor=1B2A41" alt="AWS"/> <img src="https://img.shields.io/badge/GCP-1B2A41?style=flat-square&labelColor=1B2A41&logo=googlecloud&logoColor=E5E7EB" alt="GCP"/> <img src="https://img.shields.io/badge/Azure-1B2A41?style=flat-square&labelColor=1B2A41" alt="Azure"/> <img src="https://img.shields.io/badge/Kubernetes-1B2A41?style=flat-square&labelColor=1B2A41&logo=kubernetes&logoColor=E5E7EB" alt="Kubernetes"/> <img src="https://img.shields.io/badge/Docker-1B2A41?style=flat-square&labelColor=1B2A41&logo=docker&logoColor=E5E7EB" alt="Docker"/> <img src="https://img.shields.io/badge/Terraform-1B2A41?style=flat-square&labelColor=1B2A41&logo=terraform&logoColor=E5E7EB" alt="Terraform"/> |
+| **sealing — data & streaming** | <img src="https://img.shields.io/badge/PostgreSQL-1B2A41?style=flat-square&labelColor=1B2A41&logo=postgresql&logoColor=E5E7EB" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Kafka-1B2A41?style=flat-square&labelColor=1B2A41&logo=apachekafka&logoColor=E5E7EB" alt="Kafka"/> <img src="https://img.shields.io/badge/Debezium-1B2A41?style=flat-square&labelColor=1B2A41" alt="Debezium"/> <img src="https://img.shields.io/badge/Elasticsearch-1B2A41?style=flat-square&labelColor=1B2A41&logo=elasticsearch&logoColor=E5E7EB" alt="Elasticsearch"/> <img src="https://img.shields.io/badge/Redis-1B2A41?style=flat-square&labelColor=1B2A41&logo=redis&logoColor=E5E7EB" alt="Redis"/> <img src="https://img.shields.io/badge/MongoDB-1B2A41?style=flat-square&labelColor=1B2A41&logo=mongodb&logoColor=E5E7EB" alt="MongoDB"/> <img src="https://img.shields.io/badge/GraphQL-1B2A41?style=flat-square&labelColor=1B2A41&logo=graphql&logoColor=E5E7EB" alt="GraphQL"/> |
+| **sage mode — ml & inference** | <img src="https://img.shields.io/badge/PyTorch-1B2A41?style=flat-square&labelColor=1B2A41&logo=pytorch&logoColor=E5E7EB" alt="PyTorch"/> <img src="https://img.shields.io/badge/vLLM-1B2A41?style=flat-square&labelColor=1B2A41" alt="vLLM"/> <img src="https://img.shields.io/badge/Whisper-1B2A41?style=flat-square&labelColor=1B2A41" alt="Whisper"/> <img src="https://img.shields.io/badge/HuggingFace-1B2A41?style=flat-square&labelColor=1B2A41&logo=huggingface&logoColor=E5E7EB" alt="HuggingFace"/> <img src="https://img.shields.io/badge/TensorFlow-1B2A41?style=flat-square&labelColor=1B2A41&logo=tensorflow&logoColor=E5E7EB" alt="TensorFlow"/> |
+| **sensory — devops & o11y** | <img src="https://img.shields.io/badge/GitHub_Actions-1B2A41?style=flat-square&labelColor=1B2A41&logo=githubactions&logoColor=E5E7EB" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Jenkins-1B2A41?style=flat-square&labelColor=1B2A41&logo=jenkins&logoColor=E5E7EB" alt="Jenkins"/> <img src="https://img.shields.io/badge/CircleCI-1B2A41?style=flat-square&labelColor=1B2A41&logo=circleci&logoColor=E5E7EB" alt="CircleCI"/> <img src="https://img.shields.io/badge/Fluent_Bit-1B2A41?style=flat-square&labelColor=1B2A41&logo=fluentbit&logoColor=E5E7EB" alt="Fluent Bit"/> <img src="https://img.shields.io/badge/OpenTelemetry-1B2A41?style=flat-square&labelColor=1B2A41&logo=opentelemetry&logoColor=E5E7EB" alt="OpenTelemetry"/> |
+
+---
+
+## ⌁&nbsp; Chakra output
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=sdshah09&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=D7263D&text_color=8D99AE&icon_color=D7263D"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdshah09&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=D7263D&text_color=8D99AE&icon_color=D7263D"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=sdshah09&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=C1121F&text_color=94A3B8&icon_color=C1121F"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdshah09&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=C1121F&text_color=94A3B8&icon_color=C1121F"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdshah09/sdshah09/main/dist/github-snake-dark.svg"/>
@@ -266,30 +222,18 @@ Full key and verification steps in [PGP.md](PGP.md).
 
 <div align="center">
 
-### On a scale of 1 to 10, how would you rate your pain?
+### ⌁&nbsp; Summon
 
-```
-   1      2      3      4      5      6      7      8      9      10
-  \o/    :-)    :-|    :-/    :-(    >_<    x_x    @_@    T_T    RIP
-
-  ship  minor  flaky   p99   cloud   3am   silent  data   prod  friday
-   it    bug    test  creep   bill  pager   fail   loss   down  deploy
-```
-
-**Point to where it hurts.**
-<br>
-<sub>I cannot deactivate until you say you are satisfied with your care.</sub>
-
-<br>
-
-<a href="mailto:shaswatshah2727@gmail.com"><img src="https://img.shields.io/badge/Email-D7263D?style=for-the-badge&labelColor=D7263D&logo=gmail&logoColor=EDF2F4" alt="Email"/></a>
-<a href="https://linkedin.com/in/sdshah05"><img src="https://img.shields.io/badge/LinkedIn-2B2D42?style=for-the-badge&labelColor=2B2D42" alt="LinkedIn"/></a>
-<a href="https://drive.google.com/file/d/1GdCquLV3BDOX2BF08x_KmwVTpnti63EI/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-2B2D42?style=for-the-badge&labelColor=2B2D42&logo=googledrive&logoColor=EDF2F4" alt="Resume"/></a>
+<a href="mailto:shaswatshah2727@gmail.com"><img src="https://img.shields.io/badge/Email-C1121F?style=for-the-badge&labelColor=C1121F&logo=gmail&logoColor=E5E7EB" alt="Email"/></a>
+<a href="https://linkedin.com/in/sdshah05"><img src="https://img.shields.io/badge/LinkedIn-1B2A41?style=for-the-badge&labelColor=1B2A41" alt="LinkedIn"/></a>
+<a href="https://drive.google.com/file/d/1GdCquLV3BDOX2BF08x_KmwVTpnti63EI/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-1B2A41?style=for-the-badge&labelColor=1B2A41&logo=googledrive&logoColor=E5E7EB" alt="Resume"/></a>
 
 <br><br>
 
-<sub>ba-la-la-la-la</sub>
+<sub><i>"Those who break the rules are scum. But those who abandon their comrades<br>are worse than scum."</i> &nbsp;— Kakashi Hatake</sub>
 
-<img src="https://komarev.com/ghpvc/?username=sdshah09&style=flat-square&label=patients%20seen&labelColor=2B2D42&color=8D99AE" alt="visits"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sdshah09&style=flat-square&label=scouted&labelColor=1B2A41&color=94A3B8" alt="visits"/>
 
 </div>

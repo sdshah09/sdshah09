@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 300" width="660" height="300" role="img" aria-label="Konoha headband over a blinking Sharingan eye">
+  <title>Hidden Leaf headband and Sharingan</title>
+  <style>
+    .lid      { animation: blink 5.2s infinite; transform-origin: 330px 196px; }
+    .tomoe    { animation: spin 9s linear infinite; transform-origin: 330px 196px; }
+    .glow     { animation: pulse 5.2s infinite; }
+    @keyframes blink {
+      0%, 86%, 100% { transform: scaleY(1); }
+      90%           { transform: scaleY(0.04); }
+      94%           { transform: scaleY(1); }
+    }
+    @keyframes spin  { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    @keyframes pulse { 0%, 100% { opacity: .30; } 50% { opacity: .55; } }
+    @media (prefers-reduced-motion: reduce) {
+      .lid, .tomoe, .glow { animation: none; }
+    }
+  </style>
+
+  <defs>
+    <clipPath id="eyeClip">
+      <path d="M150 196 Q330 96 510 196 Q330 296 150 196 Z"/>
+    </clipPath>
+    <radialGradient id="iris" cx="50%" cy="45%" r="60%">
+      <stop offset="0%"  stop-color="#E63946"/>
+      <stop offset="70%" stop-color="#C1121F"/>
+      <stop offset="100%" stop-color="#7A0A12"/>
+    </radialGradient>
+    <linearGradient id="plate" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#C2C9D0"/>
+      <stop offset="50%"  stop-color="#A3ABB4"/>
+      <stop offset="100%" stop-color="#889099"/>
+    </linearGradient>
+    <g id="tomoeMark">
+      <path d="M0,-11 a11,11 0 1,1 -7,19 c5,-7 7,-13 7,-19 z" fill="#101316"/>
+    </g>
+  </defs>
+
+  <!-- eye -->
+  <g class="lid">
+    <path d="M150 196 Q330 96 510 196 Q330 296 150 196 Z" fill="#F4F1EA"/>
+    <g clip-path="url(#eyeClip)">
+      <circle cx="330" cy="196" r="62" fill="url(#iris)"/>
+      <circle class="glow" cx="330" cy="196" r="62" fill="#FF4D5A"/>
+      <circle cx="330" cy="196" r="62" fill="none" stroke="#7A0A12" stroke-width="3"/>
+      <g class="tomoe">
+        <g transform="translate(330,196)">
+          <g transform="rotate(0)   translate(0,-38)"><use href="#tomoeMark"/></g>
+          <g transform="rotate(120) translate(0,-38)"><use href="#tomoeMark"/></g>
+          <g transform="rotate(240) translate(0,-38)"><use href="#tomoeMark"/></g>
+        </g>
+      </g>
+      <circle cx="330" cy="196" r="17" fill="#101316"/>
+      <circle cx="316" cy="180" r="7" fill="#FFFFFF" opacity=".85"/>
+    </g>
+    <path d="M150 196 Q330 96 510 196 Q330 296 150 196 Z" fill="none" stroke="#101316" stroke-width="7" stroke-linejoin="round"/>
+  </g>
+
+  <!-- headband, slanted across the brow -->
+  <g transform="rotate(-8 330 96)">
+    <rect x="-40" y="58" width="740" height="76" rx="10" fill="#23272E"/>
+    <rect x="205" y="66" width="250" height="60" rx="9" fill="url(#plate)" stroke="#6B7480" stroke-width="2"/>
+    <g fill="#6B7480">
+      <circle cx="226" cy="80" r="5"/><circle cx="226" cy="96" r="5"/><circle cx="226" cy="112" r="5"/>
+      <circle cx="434" cy="80" r="5"/><circle cx="434" cy="96" r="5"/><circle cx="434" cy="112" r="5"/>
+    </g>
+    <!-- Konoha leaf: true spiral, straight tail, leaf point -->
+    <g transform="translate(327,97)" fill="none" stroke="#4B535C" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 0.0,-3.2 L 0.6,-3.4 L 1.3,-3.4 L 2.0,-3.3 L 2.7,-3.1 L 3.3,-2.7 L 3.9,-2.2 L 4.5,-1.5 L 4.9,-0.7 L 5.1,0.2 L 5.2,1.1 L 5.2,2.1 L 4.9,3.1 L 4.4,4.1 L 3.8,5.0 L 2.9,5.8 L 1.9,6.4 L 0.8,6.8 L -0.5,7.1 L -1.8,7.1 L -3.1,6.9 L -4.4,6.4 L -5.6,5.7 L -6.7,4.7 L -7.6,3.5 L -8.3,2.2 L -8.8,0.7 L -9.0,-0.9 L -8.9,-2.5 L -8.5,-4.2 L -7.8,-5.7 L -6.8,-7.2 L -5.6,-8.5 L -4.0,-9.5 L -2.3,-10.3 L -0.5,-10.8 L 1.5,-10.9 L 3.4,-10.7 L 5.4,-10.1 L 7.2,-9.1 L 8.9,-7.9 L 10.3,-6.3 L 11.5,-4.4 L 12.3,-2.4 L 12.7,-0.2 L 12.8,2.1 L 12.4,4.4 L 11.6,6.7 L 10.4,8.8 L 8.8,10.6 L 6.9,12.2 L 4.7,13.4 L 2.3,14.3 L -0.3,14.7 L -2.9,14.6 L -5.6,14.0 L -8.1,13.0 L -10.4,11.5 L -12.4,9.6 L -14.2,7.4 L -15.4,4.8 L -16.3,2.0 L -16.6,-0.9 L -16.4,-3.9 L -15.6,-6.8 L -14.4,-9.6 L -12.6,-12.1 L -10.4,-14.3 L -7.8,-16.1 L -4.8,-17.5 L -1.7,-18.3 L 1.6,-18.5 L 4.9,-18.1 L 8.1,-17.2 L 11.2,-15.6 L 13.9,-13.5 L 16.3,-11.0 L 18.2,-8.0 L 19.5,-4.7 L 20.3,-1.2 L 20.4,2.5 L 19.8,6.1 L 18.6,9.6 L 16.8,12.9 L 14.4,15.8 L 11.5,18.3 L 8.1,20.2 L 4.4,21.6 L 0.6,22.2 L -3.4,22.2 L -7.4,21.4 L -11.2,20.0 L -14.7,17.9 L -17.8,15.1 L -20.3,11.8 L -22.3,8.1 L -23.6,4.1 L -24.2,-0.2 L -24.0,-4.5 L -23.0,-8.8 L -21.3,-12.8 L -18.8,-16.5 L -15.7,-19.8 L -12.1,-22.4 L -8.0,-24.4 L -3.5,-25.7 L 1.1,-26.1 L 5.7,-25.7 L 10.3,-24.5 L 14.6,-22.5 L 18.5,-19.7"/>
+      <path d="M 18.5,-19.7 L 40.1,-11.8"/>
+      <path d="M -24.3,13.2 L -30,27 L -13,27"/>
+    </g>
+  </g>
+</svg>
