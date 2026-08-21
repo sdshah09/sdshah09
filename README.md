@@ -1,18 +1,19 @@
 <div align="center">
 
+```console
+$ trace get --root shaswat.shah
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║    ███████╗██╗  ██╗ █████╗ ███████╗██╗    ██╗ █████╗ ████████╗       ║
-║    ██╔════╝██║  ██║██╔══██╗██╔════╝██║    ██║██╔══██╗╚══██╔══╝       ║
-║    ███████╗███████║███████║███████╗██║ █╗ ██║███████║   ██║          ║
-║    ╚════██║██╔══██║██╔══██║╚════██║██║███╗██║██╔══██║   ██║          ║
-║    ███████║██║  ██║██║  ██║███████║╚███╔███╔╝██║  ██║   ██║          ║
-║    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝          ║
-║                                                                      ║
-║    > shaswat.init()  ·  chicago, il  ·  status: shipping             ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+
+```
+TRACE 0b9ef523bdc6f12e    service: shaswat.shah    region: chicago-il    status: OK
+
+├─ gtu.engineering    ···███████████████████······················   2018 ─ 2022
+├─ dosepack.systems   ······················██████················   2022 ─ 2023
+├─ illinoistech.msce  ····························█████████·······   2023 ─ 2025
+├─ briefed.io         ··································██········   2024
+└─ curie.engineering  ···································█████████   2025 ─ now  ⟵ active
+                      ┴         ┴         ┴         ┴         ┴
+                      2018      2020      2022      2024      2026
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=E84A5F&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=90&lines=Software+Engineer;Distributed+Systems+%7C+Cloud+%7C+Inference;I+ship+things+and+then+I+measure+them" alt="Typing SVG" />
