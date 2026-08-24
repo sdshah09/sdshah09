@@ -35,17 +35,17 @@
 
 ## ⌁&nbsp; Sharingan — jutsu copied from other shinobi
 
-<sub>Open source contributions. Status shown exactly as it stands; not every attempt lands.</sub>
+<sub>Open source contributions &mdash; **2 merged** upstream. Status shown exactly as it stands; not every attempt lands.</sub>
 
 | repository | reach | contribution | status |
 |:---|---:|:---|:---|
 | [entireio/cli](https://github.com/entireio/cli) | ★ 5.0k | [#2018](https://github.com/entireio/cli/pull/2018) spawn hooks via `node:child_process` for Desktop | **merged** |
+| [entireio/cli](https://github.com/entireio/cli) | ★ 5.0k | [#1914](https://github.com/entireio/cli/pull/1914) qualify phone PII redaction as NANP-only | **merged** |
 | [entireio/cli](https://github.com/entireio/cli) | ★ 5.0k | [#1929](https://github.com/entireio/cli/pull/1929) sync imported checkpoints once logged in | in review |
-| [entireio/cli](https://github.com/entireio/cli) | ★ 5.0k | [#1914](https://github.com/entireio/cli/pull/1914) qualify phone PII redaction as NANP-only | in review |
-| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | ★ 30.7k | [#936](https://github.com/VoltAgent/awesome-agent-skills/pull/936) · [#935](https://github.com/VoltAgent/awesome-agent-skills/pull/935) list both published skills | in review |
-| [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | ★ 22.2k | [#1257](https://github.com/NVIDIA/NemoClaw/pull/1257) retry invalid custom policy preset selection | closed |
-| [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | ★ 22.2k | [#499](https://github.com/NVIDIA/NemoClaw/pull/499) document config, env overrides, my-stack | closed |
-| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | ★ 17.6k | [#1084](https://github.com/PrimeIntellect-ai/prime-agent/pull/1084) preserve MCP tool `inputSchema` from SDK snake_case | closed |
+| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | ★ 31.7k | [#936](https://github.com/VoltAgent/awesome-agent-skills/pull/936) · [#935](https://github.com/VoltAgent/awesome-agent-skills/pull/935) list both published skills | closed |
+| [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | ★ 22.3k | [#1257](https://github.com/NVIDIA/NemoClaw/pull/1257) retry invalid custom policy preset selection | closed |
+| [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | ★ 22.3k | [#499](https://github.com/NVIDIA/NemoClaw/pull/499) document config, env overrides, my-stack | closed |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | ★ 18.1k | [#1084](https://github.com/PrimeIntellect-ai/prime-agent/pull/1084) preserve MCP tool `inputSchema` from SDK snake_case | closed |
 
 ---
 
