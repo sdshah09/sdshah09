@@ -244,7 +244,7 @@ CHAKRA DISTRIBUTION   42 repositories, by primary language
 <br><br>
 
 <!-- quote:start -->
-<sub><i>&ldquo;Hard work is worthless for those that don't believe in themselves.&rdquo;</i><br><br>&mdash; Naruto Uzumaki</sub>
+<sub><i>&ldquo;A place where someone still thinks about you is a place you can call home.&rdquo;</i><br><br>&mdash; Jiraiya</sub>
 <!-- quote:end -->
 
 <br>
