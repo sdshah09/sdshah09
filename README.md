@@ -244,7 +244,7 @@ CHAKRA DISTRIBUTION   42 repositories, by primary language
 <br><br>
 
 <!-- quote:start -->
-<sub><i>&ldquo;I'm not gonna run away, I never go back on my word.<br>That's my ninja way.&rdquo;</i><br><br>&mdash; Naruto Uzumaki</sub>
+<sub><i>&ldquo;The next generation will always surpass the previous one.<br>It's one of the never-ending cycles in life.&rdquo;</i><br><br>&mdash; Hiruzen Sarutobi</sub>
 <!-- quote:end -->
 
 <br>
