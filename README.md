@@ -244,7 +244,7 @@ CHAKRA DISTRIBUTION   42 repositories, by primary language
 <br><br>
 
 <!-- quote:start -->
-<sub><i>&ldquo;Failing doesn't give you a reason to give up, as long as you believe.&rdquo;</i><br><br>&mdash; Naruto Uzumaki</sub>
+<sub><i>&ldquo;In the ninja world, those who break the rules are trash. But those who<br>abandon their friends are worse than trash.&rdquo;</i><br><br>&mdash; Kakashi Hatake</sub>
 <!-- quote:end -->
 
 <br>
