@@ -244,7 +244,7 @@ CHAKRA DISTRIBUTION   42 repositories, by primary language
 <br><br>
 
 <!-- quote:start -->
-<sub><i>&ldquo;Knowledge and awareness are vague, and perhaps better called illusions.&rdquo;</i><br><br>&mdash; Itachi Uchiha</sub>
+<sub><i>&ldquo;Failing doesn't give you a reason to give up, as long as you believe.&rdquo;</i><br><br>&mdash; Naruto Uzumaki</sub>
 <!-- quote:end -->
 
 <br>
