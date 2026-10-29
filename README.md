@@ -244,7 +244,7 @@ CHAKRA DISTRIBUTION   42 repositories, by primary language
 <br><br>
 
 <!-- quote:start -->
-<sub><i>&ldquo;How troublesome.&rdquo;</i><br><br>&mdash; Shikamaru Nara</sub>
+<sub><i>&ldquo;Knowledge and awareness are vague, and perhaps better called illusions.&rdquo;</i><br><br>&mdash; Itachi Uchiha</sub>
 <!-- quote:end -->
 
 <br>
