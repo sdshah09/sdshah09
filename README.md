@@ -244,7 +244,7 @@ CHAKRA DISTRIBUTION   42 repositories, by primary language
 <br><br>
 
 <!-- quote:start -->
-<sub><i>&ldquo;People's lives don't end when they die. It ends when they lose faith.&rdquo;</i><br><br>&mdash; Itachi Uchiha</sub>
+<sub><i>&ldquo;I'm not gonna run away, I never go back on my word.<br>That's my ninja way.&rdquo;</i><br><br>&mdash; Naruto Uzumaki</sub>
 <!-- quote:end -->
 
 <br>
