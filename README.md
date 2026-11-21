@@ -244,7 +244,7 @@ CHAKRA DISTRIBUTION   42 repositories, by primary language
 <br><br>
 
 <!-- quote:start -->
-<sub><i>&ldquo;In the ninja world, those who break the rules are trash. But those who<br>abandon their friends are worse than trash.&rdquo;</i><br><br>&mdash; Kakashi Hatake</sub>
+<sub><i>&ldquo;A dropout will beat a genius through hard work.&rdquo;</i><br><br>&mdash; Rock Lee</sub>
 <!-- quote:end -->
 
 <br>
