@@ -244,7 +244,7 @@ CHAKRA DISTRIBUTION   42 repositories, by primary language
 <br><br>
 
 <!-- quote:start -->
-<sub><i>&ldquo;A dropout will beat a genius through hard work.&rdquo;</i><br><br>&mdash; Rock Lee</sub>
+<sub><i>&ldquo;People's lives don't end when they die. It ends when they lose faith.&rdquo;</i><br><br>&mdash; Itachi Uchiha</sub>
 <!-- quote:end -->
 
 <br>
