@@ -244,7 +244,7 @@ CHAKRA DISTRIBUTION   42 repositories, by primary language
 <br><br>
 
 <!-- quote:start -->
-<sub><i>&ldquo;The next generation will always surpass the previous one.<br>It's one of the never-ending cycles in life.&rdquo;</i><br><br>&mdash; Hiruzen Sarutobi</sub>
+<sub><i>&ldquo;Hard work is worthless for those that don't believe in themselves.&rdquo;</i><br><br>&mdash; Naruto Uzumaki</sub>
 <!-- quote:end -->
 
 <br>
